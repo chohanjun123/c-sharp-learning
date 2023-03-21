@@ -40,7 +40,7 @@ namespace _20234125조한준_과제1
         { int idata01 = int.Parse(textBox1.Text);
             string sdata01 ="332";
 
-            label1.Text = "결과는" + idata01 + "+" + sdata01 + "=" + idata01  + sdata01 + "입니다";
+            label1.Text = "결과는" + idata01 + "+" + sdata01 + "=" + idata01  + sdata01 + "입다";
         }
     }
 }
