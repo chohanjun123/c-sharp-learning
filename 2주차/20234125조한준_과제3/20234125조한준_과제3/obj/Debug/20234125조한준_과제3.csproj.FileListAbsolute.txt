@@ -7,3 +7,6 @@ C:\Users\Student\Desktop\20234125조한준_과제3\20234125조한준_과제3\obj
 C:\Users\Student\Desktop\20234125조한준_과제3\20234125조한준_과제3\obj\Debug\20234125조한준_과제3.csproj.GenerateResource.Cache
 C:\Users\Student\Desktop\20234125조한준_과제3\20234125조한준_과제3\obj\Debug\20234125조한준_과제3.exe
 C:\Users\Student\Desktop\20234125조한준_과제3\20234125조한준_과제3\obj\Debug\20234125조한준_과제3.pdb
+C:\Users\82105\Desktop\c-sharp-learning\2주차\20234125조한준_과제3\20234125조한준_과제3\bin\Debug\20234125조한준_과제3.exe.config
+C:\Users\82105\Desktop\c-sharp-learning\2주차\20234125조한준_과제3\20234125조한준_과제3\obj\Debug\20234125조한준_과제3.exe
+C:\Users\82105\Desktop\c-sharp-learning\2주차\20234125조한준_과제3\20234125조한준_과제3\obj\Debug\20234125조한준_과제3.pdb
