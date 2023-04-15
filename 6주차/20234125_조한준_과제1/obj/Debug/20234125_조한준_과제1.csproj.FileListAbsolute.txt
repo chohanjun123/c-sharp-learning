@@ -7,3 +7,12 @@ C:\Users\Student\Desktop\20234125_조한준_과제1\obj\Debug\_20234125_조한�
 C:\Users\Student\Desktop\20234125_조한준_과제1\obj\Debug\20234125_조한준_과제1.csproj.GenerateResource.Cache
 C:\Users\Student\Desktop\20234125_조한준_과제1\obj\Debug\20234125_조한준_과제1.exe
 C:\Users\Student\Desktop\20234125_조한준_과제1\obj\Debug\20234125_조한준_과제1.pdb
+C:\Users\82105\Desktop\c-sharp-learning\6주차\20234125_조한준_과제1\bin\Debug\20234125_조한준_과제1.exe.config
+C:\Users\82105\Desktop\c-sharp-learning\6주차\20234125_조한준_과제1\obj\Debug\20234125_조한준_과제1.exe
+C:\Users\82105\Desktop\c-sharp-learning\6주차\20234125_조한준_과제1\obj\Debug\20234125_조한준_과제1.pdb
+C:\Users\82105\Desktop\c-sharp-learning\6주차\20234125_조한준_과제1\bin\Debug\20234125_조한준_과제1.exe
+C:\Users\82105\Desktop\c-sharp-learning\6주차\20234125_조한준_과제1\bin\Debug\20234125_조한준_과제1.pdb
+C:\Users\82105\Desktop\c-sharp-learning\6주차\20234125_조한준_과제1\obj\Debug\20234125_조한준_과제1.csprojResolveAssemblyReference.cache
+C:\Users\82105\Desktop\c-sharp-learning\6주차\20234125_조한준_과제1\obj\Debug\_20234125_조한준_과제1.Form1.resources
+C:\Users\82105\Desktop\c-sharp-learning\6주차\20234125_조한준_과제1\obj\Debug\_20234125_조한준_과제1.Properties.Resources.resources
+C:\Users\82105\Desktop\c-sharp-learning\6주차\20234125_조한준_과제1\obj\Debug\20234125_조한준_과제1.csproj.GenerateResource.Cache
